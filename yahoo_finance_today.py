@@ -1,14 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-This is a temporary script file.
-"""
 import yahoo_fin.stock_info as si
 from datetime import date
- 
-  
- 
  
 class take_home_ISRG:
     def __init__(self):
