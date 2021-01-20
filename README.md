@@ -1,8 +1,8 @@
 # yahoo_finance_today
 
-## Query today's stock price for a certain ticker by yahoo_fin package offered by yahoo finance
+## Query today's stock price for a certain ticker
+This application is based on [yahoo_fin](http://theautomatic.net/yahoo_fin-documentation/#tickers_nasdaq) offered by yahoo finance.
 
-This application is based on [yahoo_fin](http://theautomatic.net/yahoo_fin-documentation/#tickers_nasdaq).
 
 ## Environment:
 
