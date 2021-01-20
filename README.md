@@ -9,7 +9,7 @@ This application is based on [yahoo_fin](http://theautomatic.net/yahoo_fin-docum
 
 Open your terminal
 
-pip install requirements.txt\
+pip install -r requirements.txt\
 python yahoo_finance_today.py
 
 You will see further instructions like typing ticker to get stock info
