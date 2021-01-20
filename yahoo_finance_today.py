@@ -42,7 +42,7 @@ def notFoundMsg(ticker):
 def app():
     
     print("Initilizing the take_home application based on yahoo finance")
-    print("This application is based on yahoo finance offer's python package 'yahoo_fin'")
+    print("This application is based on  python package 'yahoo_fin' offered by Andrew Treadway.")
     # explanation to not found case
     notFoundMsg("If ticker")
     
