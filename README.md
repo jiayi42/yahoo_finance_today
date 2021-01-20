@@ -4,6 +4,9 @@
 
 This application is based on [yahoo_fin](http://theautomatic.net/yahoo_fin-documentation/#tickers_nasdaq).
 
+## Environment:
+
+Python3.8
 
 ## Usage:
 
