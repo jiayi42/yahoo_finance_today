@@ -1,7 +1,7 @@
 # yahoo_finance_today
 
 ## Query today's stock price for a certain ticker
-This application is based on [yahoo_fin](http://theautomatic.net/yahoo_fin-documentation/#tickers_nasdaq) offered by yahoo finance.
+This application is based on [yahoo_fin](http://theautomatic.net/yahoo_fin-documentation/#tickers_nasdaq) offered by Andrew Treadway.
 
 
 ## Environment:
